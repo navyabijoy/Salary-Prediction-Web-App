@@ -1,6 +1,8 @@
 # Salary-Prediction-Web-App
 
-This project is a web application that predicts the salaries of software developers based on their country, education level, and years of coding experience. The predictions are made using machine learning models trained on Stack Overflow survey data from 2023. The dataset is available [here](https://insights.stackoverflow.com/survey).
+## Project Overview
+
+This project aims to predict software developer salaries in 2023 based on various factors such as country, education level, and years of coding experience. Please note that as a beginner in the field of machine learning, the accuracy of the model may not be optimal. However, I am committed to continuously improving the model as I gain more knowledge and experience in the field. The dataset is available [here](https://insights.stackoverflow.com/survey).
 
 ## Features
 
@@ -26,6 +28,23 @@ This project utilizes several machine learning models and techniques for predict
 - **Linear Regression**: Applied for modeling the relationship between independent variables (features) and the dependent variable (salary) using a linear equation.
 
 - **GridSearchCV with Decision Tree Regressor**: Utilized for hyperparameter tuning, GridSearchCV systematically searches for the optimal hyperparameters of the decision tree regressor, such as the maximum depth of the tree.
+
+Access the web app in your browser at `[http://localhost:8501](http://localhost:8501/)`.
+
+## Usage
+
+1. Navigate to the Predict Page to input your details and get a salary estimate.
+2. Explore the Explore Page to visualize salary distributions based on different factors.
+3. Experiment with different inputs to understand how different factors affect salary predictions.
+
+## Contributing
+
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
