@@ -29,7 +29,7 @@ This project utilizes several machine learning models and techniques for predict
 
 - **GridSearchCV with Decision Tree Regressor**: Utilized for hyperparameter tuning, GridSearchCV systematically searches for the optimal hyperparameters of the decision tree regressor, such as the maximum depth of the tree.
 
-Access the web app in your browser at `[http://localhost:8501](http://localhost:8501/)`.
+Access the web app in your browser at [http://localhost:8501/](http://localhost:8501/).
 
 ## Usage
 
