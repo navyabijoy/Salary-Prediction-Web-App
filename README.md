@@ -1,6 +1,6 @@
 # Salary-Prediction-Web-App
 
-This project is a web application that predicts the salaries of software developers based on their country, education level, and years of coding experience. The predictions are made using machine learning models trained on Stack Overflow survey data from 2023. The dataset is available [here](https://insights.stackoverflow.com/survey)
+This project is a web application that predicts the salaries of software developers based on their country, education level, and years of coding experience. The predictions are made using machine learning models trained on Stack Overflow survey data from 2023. The dataset is available [here](https://insights.stackoverflow.com/survey).
 
 ## Features
 
